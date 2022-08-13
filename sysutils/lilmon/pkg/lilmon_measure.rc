@@ -1,0 +1,13 @@
+#!/bin/ksh
+
+daemon="${TRUEPREFIX}/bin/lilmon"
+daemon_flags="measure --config-path ${SYSCONFDIR}/lilmon/lilmon.ini"
+daemon_logger="daemon.info"
+daemon_user="_lilmon"
+
+. /etc/rc.d/rc.subr
+
+pexp="${daemon} measure.*"
+rc_bg=YES
+
+rc_cmd $1

@@ -1,0 +1,15 @@
+@newgroup _lilmon:875
+@newuser _lilmon:875:_lilmon:daemon:lilmon:/nonexistent:/sbin/nologin
+@sample ${SYSCONFDIR}/lilmon/
+@rcscript ${RCDIR}/lilmon_measure
+@rcscript ${RCDIR}/lilmon_serve
+@bin bin/lilmon
+share/examples/lilmon/
+share/examples/lilmon/lilmon.ini
+@sample ${SYSCONFDIR}/lilmon/lilmon.ini
+share/examples/lilmon/lilmon.template
+@sample ${SYSCONFDIR}/lilmon/lilmon.template
+@mode 0755
+@owner _lilmon
+@group _lilmon
+@sample ${LOCALSTATEDIR}/lilmon/db/
