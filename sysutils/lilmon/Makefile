@@ -2,11 +2,12 @@
 
 COMMENT = minimalistic monitoring application
 
+V = 0.10.0
 MODGO_MODNAME =	github.com/susji/lilmon
-MODGO_VERSION =	v0.10.0
+MODGO_VERSION =	v${V}
 
 DISTNAME = lilmon-${MODGO_VERSION}
-PKGNAME =	lilmon-0.10.0
+PKGNAME =	lilmon-${V}
 
 CATEGORIES = sysutils
 
