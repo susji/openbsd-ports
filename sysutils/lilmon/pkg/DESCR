@@ -1,5 +1,5 @@
 lilmon is a monitoring program intended for single host use. lilmon
-- collects timestamped numeric values
+- collects timestamped numeric values with plain shell invocations
 - serves timeseries graphs in a simple browser view
 - exposes its data via a simple file-backed SQLite database
 - is small and simple
