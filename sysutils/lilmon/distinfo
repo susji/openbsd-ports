@@ -109,7 +109,7 @@ SHA256 (go_modules/honnef.co/go/tools/@v/v0.1.3.mod) = XekgySPrUXkTLl86YEERXoiEg
 SHA256 (go_modules/honnef.co/go/tools/@v/v0.1.3.zip) = RgfIxkISa+BjLOix6Cs08EQEu0DGLlmCv0Vy4+CNB1E=
 SHA256 (go_modules/rsc.io/pdf/@v/v0.1.1.mod) = /ofZECCWyHkA0bShBtm9WPYMBoCaTvedgEv/BoT1y+c=
 SHA256 (go_modules/rsc.io/pdf/@v/v0.1.1.zip) = eb8xDjmc8OLYqmFTZ1DSppmcXKiE56J/r4jTcBzVuo8=
-SHA256 (lilmon-v0.11.0.zip) = jSDl1ap1cxnM5d/EoMR4+tGiE6gkUNX1Jc+3V+ZKvKE=
+SHA256 (lilmon-v0.11.1.zip) = dwacJ+D9VSZmlVJhCyUBvDQLTwaP2Of29scUvscMYdw=
 SIZE (go_modules/gioui.org/@v/v0.0.0-20210308172011-57750fc8a0a6.mod) = 200
 SIZE (go_modules/gioui.org/@v/v0.0.0-20210308172011-57750fc8a0a6.zip) = 517948
 SIZE (go_modules/git.sr.ht/~sbinet/gg/@v/v0.3.1.mod) = 168
@@ -221,4 +221,4 @@ SIZE (go_modules/honnef.co/go/tools/@v/v0.1.3.mod) = 144
 SIZE (go_modules/honnef.co/go/tools/@v/v0.1.3.zip) = 660081
 SIZE (go_modules/rsc.io/pdf/@v/v0.1.1.mod) = 18
 SIZE (go_modules/rsc.io/pdf/@v/v0.1.1.zip) = 50919
-SIZE (lilmon-v0.11.0.zip) = 476070
+SIZE (lilmon-v0.11.1.zip) = 476181
