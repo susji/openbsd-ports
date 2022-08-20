@@ -2,7 +2,7 @@
 
 COMMENT = minimalistic monitoring application
 
-V = 0.13.0
+V = 0.13.1
 MODGO_MODNAME =	github.com/susji/lilmon
 MODGO_VERSION =	v${V}
 
