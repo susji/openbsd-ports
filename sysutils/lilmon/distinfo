@@ -36,8 +36,8 @@ SHA256 (go_modules/github.com/jung-kurt/gofpdf/@v/v1.0.0.mod) = QjvFc1psrU/tcTL7
 SHA256 (go_modules/github.com/jung-kurt/gofpdf/@v/v1.0.0.zip) = GMSRH6f8KP7FAY1VhK/5uDJPUQEXf3LNbCzuSMGyy70=
 SHA256 (go_modules/github.com/kisielk/gotool/@v/v1.0.0.mod) = d6ynv/wOwp/J8IjVliqzEo9AXXsQx865aT/3oIlYlV0=
 SHA256 (go_modules/github.com/kisielk/gotool/@v/v1.0.0.zip) = CJ27puOqCZRP20DXKsyGaU6L3eAc/A9A/gJIMJ64Cj8=
-SHA256 (go_modules/github.com/mattn/go-sqlite3/@v/v1.14.12.mod) = odA8NpvbveDb1GzwuPAn+2XkVFxrp4juFC6DeZhF+9w=
-SHA256 (go_modules/github.com/mattn/go-sqlite3/@v/v1.14.12.zip) = ImTX9TfpZt+PLJVUzPBZn+YpVji+YfdM+OflY+xvkFw=
+SHA256 (go_modules/github.com/mattn/go-sqlite3/@v/v1.14.15.mod) = tmtIYA14NsYZ0AJP4f+zWZYQ2ffWahLVx+mCjk4YBHM=
+SHA256 (go_modules/github.com/mattn/go-sqlite3/@v/v1.14.15.zip) = ARTS30Od3rA+70mkvyzI+2lmXA12SURjyvp9GJoW4Pk=
 SHA256 (go_modules/github.com/phpdave11/gofpdf/@v/v1.4.2.mod) = OQ/a2rx9bgoWvzYXjv/pi/o8ia6TmiqMAL+U5tIosiQ=
 SHA256 (go_modules/github.com/phpdave11/gofpdf/@v/v1.4.2.zip) = TbBSWPKBtA2KFzkv1xZId56nWKmqUGqNE0be1zft5D8=
 SHA256 (go_modules/github.com/phpdave11/gofpdi/@v/v1.0.12.mod) = tf/Rf1/BRRrj/GVm+cpa2PSSRVJ4tMpQ9tngBUHtwe0=
@@ -110,7 +110,6 @@ SHA256 (go_modules/honnef.co/go/tools/@v/v0.1.3.zip) = RgfIxkISa+BjLOix6Cs08EQEu
 SHA256 (go_modules/rsc.io/pdf/@v/v0.1.1.mod) = /ofZECCWyHkA0bShBtm9WPYMBoCaTvedgEv/BoT1y+c=
 SHA256 (go_modules/rsc.io/pdf/@v/v0.1.1.zip) = eb8xDjmc8OLYqmFTZ1DSppmcXKiE56J/r4jTcBzVuo8=
 SHA256 (lilmon-v0.15.0.zip) = zQPcJENczxoZtSD6OnViq1ckl3QHRh3eKwuPfGvB4dg=
-
 SIZE (go_modules/gioui.org/@v/v0.0.0-20210308172011-57750fc8a0a6.mod) = 200
 SIZE (go_modules/gioui.org/@v/v0.0.0-20210308172011-57750fc8a0a6.zip) = 517948
 SIZE (go_modules/git.sr.ht/~sbinet/gg/@v/v0.3.1.mod) = 168
@@ -149,8 +148,8 @@ SIZE (go_modules/github.com/jung-kurt/gofpdf/@v/v1.0.0.mod) = 35
 SIZE (go_modules/github.com/jung-kurt/gofpdf/@v/v1.0.0.zip) = 1446344
 SIZE (go_modules/github.com/kisielk/gotool/@v/v1.0.0.mod) = 35
 SIZE (go_modules/github.com/kisielk/gotool/@v/v1.0.0.zip) = 18981
-SIZE (go_modules/github.com/mattn/go-sqlite3/@v/v1.14.12.mod) = 44
-SIZE (go_modules/github.com/mattn/go-sqlite3/@v/v1.14.12.zip) = 2517793
+SIZE (go_modules/github.com/mattn/go-sqlite3/@v/v1.14.15.mod) = 146
+SIZE (go_modules/github.com/mattn/go-sqlite3/@v/v1.14.15.zip) = 2541277
 SIZE (go_modules/github.com/phpdave11/gofpdf/@v/v1.4.2.mod) = 317
 SIZE (go_modules/github.com/phpdave11/gofpdf/@v/v1.4.2.zip) = 2884143
 SIZE (go_modules/github.com/phpdave11/gofpdi/@v/v1.0.12.mod) = 82

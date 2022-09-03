@@ -17,7 +17,7 @@ MODGO_MODULES =	\
 	github.com/golang/freetype		 v0.0.0-20170609003504-e2365dfdc4a0 \
 	github.com/jung-kurt/gofpdf		 v1.0.0 \
 	github.com/kisielk/gotool		 v1.0.0 \
-	github.com/mattn/go-sqlite3		 v1.14.12 \
+	github.com/mattn/go-sqlite3		 v1.14.15 \
 	github.com/phpdave11/gofpdf		 v1.4.2 \
 	github.com/phpdave11/gofpdi		 v1.0.13 \
 	github.com/pkg/errors			 v0.9.1 \
